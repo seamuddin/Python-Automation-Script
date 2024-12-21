@@ -32,7 +32,7 @@ This repository serves as a collection of Python scripts for automation and scri
 ## 📂 Scripts Included
 | Script Name              | Description                                                       |
 |--------------------------|-------------------------------------------------------------------|
-| file_organizer.py        | Organizes files in a directory based on file types.              |
+| mysql_auto_installtion.py.py        | Automatically Install Mysql in Linux System.              |
 | web_scraper.py           | Scrapes data from websites and saves it into a CSV file.         |
 | email_sender.py          | Sends automated emails with attachments.                         |
 | data_cleaner.py          | Cleans and preprocesses datasets for analysis.                   |
