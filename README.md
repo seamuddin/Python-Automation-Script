@@ -1,98 +1,68 @@
-#Python Automation Scripts
 
-Welcome to the Python Automation Scripts repository! This repository contains a collection of standalone Python scripts designed for various automation tasks and scripting purposes.
+# Python Automation Scripts
 
-📜 Table of Contents
+Welcome to the **Python Automation Scripts** repository! This repository contains a collection of standalone Python scripts designed for various automation tasks and scripting purposes.
 
-Overview
+## 📜 Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Usage](#usage)
+- [Scripts Included](#scripts-included)
+- [Contributing](#contributing)
+- [Contact](#contact)
 
-Features
+---
 
-Usage
-
-Scripts Included
-
-Contributing
-
-Contact
-
-🌟 Overview
-
+## 🌟 Overview
 This repository serves as a collection of Python scripts for automation and scripting tasks. Each script can be run independently without additional dependencies.
 
-✨ Features
+## ✨ Features
+- Standalone Python scripts for various use cases.
+- Easy to use and modify.
+- No complex setup required.
 
-Standalone Python scripts for various use cases.
+## 🛠️ Usage
+1. Choose the script you want to run.
+2. Modify any parameters or configurations if required.
+3. Execute the script:
+   ```bash
+   python script_name.py
+   ```
 
-Easy to use and modify.
+## 📂 Scripts Included
+| Script Name              | Description                                                       |
+|--------------------------|-------------------------------------------------------------------|
+| file_organizer.py        | Organizes files in a directory based on file types.              |
+| web_scraper.py           | Scrapes data from websites and saves it into a CSV file.         |
+| email_sender.py          | Sends automated emails with attachments.                         |
+| data_cleaner.py          | Cleans and preprocesses datasets for analysis.                   |
+| backup_manager.py        | Creates backups of specified directories and files.              |
 
-No complex setup required.
+> **Note**: More scripts will be added regularly. Stay tuned!
 
-🛠️ Usage
-
-Choose the script you want to run.
-
-Modify any parameters or configurations if required.
-
-Execute the script:
-
-python script_name.py
-
-📂 Scripts Included
-
-Script Name
-
-Description
-
-file_organizer.py
-
-Organizes files in a directory based on file types.
-
-web_scraper.py
-
-Scrapes data from websites and saves it into a CSV file.
-
-email_sender.py
-
-Sends automated emails with attachments.
-
-data_cleaner.py
-
-Cleans and preprocesses datasets for analysis.
-
-backup_manager.py
-
-Creates backups of specified directories and files.
-
-Note: More scripts will be added regularly. Stay tuned!
-
-🤝 Contributing
-
+## 🤝 Contributing
 Contributions are welcome! If you have any useful scripts, feel free to fork this repository and submit a pull request.
 
-Fork the repository.
+1. Fork the repository.
+2. Create a new branch:
+   ```bash
+   git checkout -b feature-name
+   ```
+3. Commit your changes:
+   ```bash
+   git commit -m 'Add feature description'
+   ```
+4. Push to your branch:
+   ```bash
+   git push origin feature-name
+   ```
+5. Submit a pull request.
 
-Create a new branch:
-
-git checkout -b feature-name
-
-Commit your changes:
-
-git commit -m 'Add feature description'
-
-Push to your branch:
-
-git push origin feature-name
-
-Submit a pull request.
-
-📧 Contact
-
+## 📧 Contact
 For any queries or suggestions, feel free to reach out:
+- **Email**: your-email@example.com
+- **GitHub**: [your-username](https://github.com/your-username)
 
-Email: your-email@example.com
+---
 
-GitHub: your-username
-
-Star this repository ⭐ if you find it useful!
-
+> **Star this repository ⭐ if you find it useful!**
