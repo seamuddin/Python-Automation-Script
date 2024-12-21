@@ -33,10 +33,7 @@ This repository serves as a collection of Python scripts for automation and scri
 | Script Name              | Description                                                       |
 |--------------------------|-------------------------------------------------------------------|
 | mysql_auto_installtion.py        | Automatically Install Mysql in Linux System.              |
-| web_scraper.py           | Scrapes data from websites and saves it into a CSV file.         |
-| email_sender.py          | Sends automated emails with attachments.                         |
-| data_cleaner.py          | Cleans and preprocesses datasets for analysis.                   |
-| backup_manager.py        | Creates backups of specified directories and files.              |
+| mysql_database_backup.py           | Mysql Database Backup from any remote or local server database.         |
 
 > **Note**: More scripts will be added regularly. Stay tuned!
 
